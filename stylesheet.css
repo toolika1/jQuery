@@ -1,0 +1,46 @@
+/*setting the font of entire body*/
+body{
+	font-family: 'Finger Paint', cursive;
+}
+/*setting the color of jumbotron as black*/
+.jumbotron{
+ 	background-color: rgb(50,50,50);
+ 	color: white;
+ }
+/*setting css property for division having contact*/
+.contact{
+	background-color: rgb(50,50,50);
+ 	color: white;
+}
+ .icons{
+    display:inline;
+    -webkit-filter: grayscale(1);
+    
+   }
+   .icons:hover{
+  
+  -webkit-filter: none;
+}
+
+ /*styling modal header*/
+ .modal-header{
+ 	background-color: green;
+ 	color: white;
+ }
+
+/*styling footer*/
+ .foot{
+
+  height: 200px;
+  width: 100%;
+  background-color: black;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.foot_head{
+  color: white;
+}
+.foot_cont{
+  color: white;
+}
+ 
