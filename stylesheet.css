@@ -43,4 +43,14 @@ body{
 .foot_cont{
   color: white;
 }
+
+.current
+{
+  background: green;
+  color: white;
+}
+.linkActive{
+  background-color: red;
+}
+
  
